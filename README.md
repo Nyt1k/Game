@@ -1,2 +1,2 @@
 # Game
-Game form my coursework.
+Game for my coursework.
